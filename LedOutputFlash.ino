@@ -1,3 +1,4 @@
+// defining General-purpose input/output pin on raspberry pi pico (0 through 28)
 #define ledPin0 0
 #define ledPin1 1
 #define ledPin2 2
