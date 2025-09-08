@@ -1,7 +1,7 @@
 # Raspberry-Pi-Pico
-Project for Raspberry Pi Pico Showcasing Embedded System Applications
+Digital Pin Output Project for Raspberry Pi Pico Showcasing Embedded System Applications
 
-This project is for a blinking led which can be an output from any of the 0 through 28 genral-purpose input/output pins on the raspberry pi pico. A ground from a ground pin on the pico to the cathode leg of the led should be connected. A resistor from the output pin to the anode leg of the led should be connected. 
+The project is for a blinking led which can be an output from any of the 0 through 28 genral-purpose input/output pins on the raspberry pi pico. A ground from a ground pin on the pico to the cathode leg of the led should be connected. A resistor from the output pin to the anode leg of the led should be connected. 
 
 // defining General-purpose input/output pin on raspberry pi pico (0 through 28)
 #define ledPin0 0
