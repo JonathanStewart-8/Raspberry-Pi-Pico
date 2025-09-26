@@ -1,5 +1,12 @@
 # Raspberry-Pi-Pico
-Digital Pin Output Project for Raspberry Pi Pico Showcasing Embedded System Applications
+The Raspberry Pi Pico is well suited for use in embedded systems. The Raspberry Pi Pico makes use of the RP2040 microcontroller. This gives the Raspberry Pi Pico 26 GPIO (General Purpose Input/Output) pins. The 26 GPIO pins support a wide variety of communication protocols including I2C (Inter-Integrated Circuit), SPI (Serial Peripheral Interface), and UART (Universal Asynchronous Receiver/Transmitter). The Raspberry Pi Pico also supports ADC (Analog to Digital Conversion), PWM (Pulse Width Modulation) and PIO (Programmable I/O) features. All of these communcation protocols and features make the Raspberry Pi Pico a correct choice for use in embedded applications. In large part this is due to the flexablilty that the Raspberry Pi Pico offers along with its low cost and ease of use. 
+
+The Rapberry Pi Pico supports digital inputs and outputs on all 26 GPIO pins. The Raspberry Pi Pico can also support analog inputs on the three ADC pins which are located on GPIO pins 28, 27, and 26. The Raspberry Pi Pico 
+
+
+
+
+
 
 The project is for a blinking led which can be an output from any of the 0 through 28 genral-purpose input/output pins on the raspberry pi pico. A ground from a ground pin on the pico to the cathode leg of the led should be connected. A resistor from the output pin to the anode leg of the led should be connected. 
 
